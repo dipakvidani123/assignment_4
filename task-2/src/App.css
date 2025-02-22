@@ -1,0 +1,4 @@
+.custom-strike {
+  text-decoration-color: red; /* Changes the strikethrough line color */
+  text-decoration-thickness: 2px; /* Optional: Adjusts the thickness */
+}
